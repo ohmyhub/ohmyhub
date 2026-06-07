@@ -14,7 +14,7 @@ I'm a **CAD drafter** for a county government in the **Seattle area**, where my 
 
 By night, I'm a **hobby programmer** with a beginner's earnestness and a lot of opinions about text editors. I build small tools mostly for myself, learn things the slow way, and maintain a possibly excessive Org-roam archive that documents every half-formed thought I've had since 2021.
 
-I live in Seattle with my girlfriend and one small black cat.
+I live in Seattle with my girlfriend, a black cat, a fluffy white cat, and our 75 pound dog.
 
 ---
 
@@ -52,7 +52,7 @@ I live in Seattle with my girlfriend and one small black cat.
 
 | Project                    | What It Is                                                                                                                                                                |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Mind Shack**             | Personal knowledge manager — Electron + React + SQLite + Claude AI, with a knowledge graph, Dropbox sync, and vim mode because obviously                                  |
+| **Mind Shack**             | Personal knowledge manager — Electron + React + SQLite + Claude AI, with a knowledge graph, Dropbox sync, and vim mode                                  |
 | **The Librarian**          | Single-file HTML book recommendation engine powered by the Claude API                                                                                                     |
 | **Civil 3D MCP Server**    | A [Model Context Protocol](https://modelcontextprotocol.io) server for Autodesk Civil 3D, written in pure PowerShell via COM automation — no pip, no admin rights, no fun |
 | **slope-grade calculator** | A Python/tkinter tool for civil engineering grade calculations, because sometimes you just need a widget                                                                  |

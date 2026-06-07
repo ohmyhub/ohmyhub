@@ -63,9 +63,11 @@ I live in Seattle with my girlfriend, a black cat, a fluffy white cat, and our 7
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=ohmyhub&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
-  
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmyhub&layout=compact&theme=merko&hide_border=true&langs_count=6&bg_color=00000000" />
+![Profile Views](https://komarev.com/ghpvc/?username=ohmyhub&style=flat-square&color=5A8A6A&label=profile+views)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/ohmyhub?style=flat-square&color=5A8A6A&label=followers)
+&nbsp;
+![GitHub User's stars](https://img.shields.io/github/stars/ohmyhub?style=flat-square&color=5A8A6A&label=total+stars&affiliations=OWNER)
 
 </div>
 
